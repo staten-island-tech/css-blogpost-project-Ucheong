@@ -15,7 +15,8 @@ body {
   text-align: center;
   padding: 50px 25px;
 }
-.Earthimg {padding: 0 auto;
- width: 650px;
- margin: 0% auto;
+.Earthimg {
+ height: 30vh;
+ margin-left: 775px;
+ 
 }
