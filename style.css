@@ -11,12 +11,19 @@ body {
   font-family: "Nabla", cursive;
   font-family: "Raleway", sans-serif;
 }
-.blog {
-  text-align: center;
-  padding: 50px 25px;
-}
 .Earthimg {
- height: 30vh;
- margin-left: 775px;
- 
+margin-left: 775px;
+height: 30vh;
 }
+
+#bob {
+  padding: 0px 0px;
+  text-align: center;
+}
+
+.blogtitles {
+  text-align: center;
+  padding: 0px 0px;
+}
+
+
