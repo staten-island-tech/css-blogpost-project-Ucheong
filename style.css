@@ -12,23 +12,28 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
-.blogtitles {
-  text-align: center;
-  padding: 0px 0px;
-}
-
 #Earth {
-  height: 50vh;
-
-}
+  height: 50vh;}
 
 #Brain {
-  height: 50vh;
-}
+  height: 50vh;}
 
 #Highway {
-  height: 50vh;
+  height: 50vh;}
+
+.boxes{
+  border: solid white;
+  border-radius: 20px;
+  text-align: center;
+  padding: 0px;
+  width: 60%;
+  margin: 0 auto 125px;
 }
+
+.color {color: white;}
+
+
+
 
 
 
