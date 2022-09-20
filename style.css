@@ -11,19 +11,28 @@ body {
   font-family: "Nabla", cursive;
   font-family: "Raleway", sans-serif;
 }
-.Earthimg {
-margin-left: 775px;
-height: 30vh;
-}
-
-#bob {
-  padding: 0px 0px;
-  text-align: center;
-}
 
 .blogtitles {
   text-align: center;
   padding: 0px 0px;
 }
+
+#Earth {
+  height: 50vh;
+
+}
+
+#Brain {
+  height: 50vh;
+}
+
+#Highway {
+  height: 50vh;
+}
+
+
+
+
+
 
 
