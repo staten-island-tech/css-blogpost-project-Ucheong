@@ -3,6 +3,7 @@
   color: white;
   font-size: 100px;
   border: solid white;
+  margin-top: 0px;
 }
 
 body {
@@ -12,6 +13,7 @@ body {
   font-family: "Nabla", cursive;
   font-family: "Raleway", sans-serif;
 }
+
 .imgs{
   height: 50vh;}
   
