@@ -12,16 +12,9 @@ body {
   font-family: "Nabla", cursive;
   font-family: "Raleway", sans-serif;
 }
-
-#Earth {
+.imgs{
   height: 50vh;}
-
-#Brain {
-  height: 50vh;}
-
-#Highway {
-  height: 50vh;}
-
+  
 .boxes{
   border: solid white;
   border-radius: 20px;
